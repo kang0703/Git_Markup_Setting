@@ -2,7 +2,7 @@
 #############
 ## 파일무시
 source_dev/css/*.map
-
+source_dev/css/vendors/*.map
 
 
 ## 폴더무시
